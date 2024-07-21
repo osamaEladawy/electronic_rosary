@@ -6,7 +6,7 @@ A new Flutter project.
 
 
 
-![screen shoot](C:/Users/sh/Desktop/to/pic.png)
+![screen shoot](Users/sh/Desktop/pic.png)
 
 This project is a starting point for a Flutter application.
 
